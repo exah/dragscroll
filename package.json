@@ -1,0 +1,19 @@
+{
+  "name": "dragscroll",
+  "version": "0.0.5",
+  "description": "scroll area by dragging",
+  "main": "dragscroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exah/dragscroll.git"
+  },
+  "author": "asvd",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/exah/dragscroll/issues"
+  },
+  "homepage": "https://github.com/exah/dragscroll#readme"
+}
